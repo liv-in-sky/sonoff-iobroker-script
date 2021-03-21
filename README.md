@@ -1,0 +1,1 @@
+# sonoff-iobroker-script
