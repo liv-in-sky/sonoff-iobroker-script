@@ -2,4 +2,5 @@
 
 dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 
-![AApossis (26)](https://user-images.githubusercontent.com/18462890/111898475-9221a180-8a26-11eb-9a09-83db503aaea3.gif)
+![AApossis (27)](https://user-images.githubusercontent.com/18462890/112044644-53850780-8b4a-11eb-9f47-1ab1c80648dc.gif)
+
