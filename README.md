@@ -2,6 +2,10 @@
 
 dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 
+- es müssen keine dp angelegt werden - alles unter: javascript.x.Tabellen@Liv.TestTabelleVIS.SONOFFTabelleVIS. **altes script stoppen für test**
+- dp können auch unter 0_userdata.0 angelegt werden
+- Tabelle wird mit Binding in einem HTML Standard Widget in der VIS angezeigt
+
 ![AApossis (29)](https://user-images.githubusercontent.com/18462890/112440001-12f3dc80-8d4a-11eb-9893-eae7c5218ba1.gif)
 
 - grün: DoppelKlick - wechselt in FlexBox View
