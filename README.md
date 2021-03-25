@@ -17,5 +17,5 @@ dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 ![Image 4](https://user-images.githubusercontent.com/18462890/112441908-a24dbf80-8d4b-11eb-8f83-3ad122fef7a8.png)
 
 
-
+link zum ioBroker-Forum: https://forum.iobroker.net/post/601855
 
