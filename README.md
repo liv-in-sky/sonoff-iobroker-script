@@ -5,6 +5,8 @@ dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 - es müssen keine dp angelegt werden - alles unter: javascript.x.Tabellen@Liv.SONOFFTabelleVIS. **altes script stoppen für test**
 - dp können auch unter 0_userdata.0 angelegt werden
 - Tabelle wird mit Binding in einem HTML Standard Widget in der VIS angezeigt
+- ipadresse: bei Klick wird WebGui des Tasmota Gerätes geöffnet
+- POWER Tasten schalten das Gerät und refreshen Tabelle
 
 ![AApossis (29)](https://user-images.githubusercontent.com/18462890/112440001-12f3dc80-8d4a-11eb-9893-eae7c5218ba1.gif)
 
