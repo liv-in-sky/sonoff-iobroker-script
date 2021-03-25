@@ -2,7 +2,7 @@
 
 dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 
-- es müssen keine dp angelegt werden - alles unter: javascript.x.Tabellen@Liv.TestTabelleVIS.SONOFFTabelleVIS. **altes script stoppen für test**
+- es müssen keine dp angelegt werden - alles unter: javascript.x.Tabellen@Liv.SONOFFTabelleVIS. **altes script stoppen für test**
 - dp können auch unter 0_userdata.0 angelegt werden
 - Tabelle wird mit Binding in einem HTML Standard Widget in der VIS angezeigt
 
