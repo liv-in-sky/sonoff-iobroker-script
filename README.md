@@ -21,3 +21,7 @@ dient zur anzeige der tasmota geflashten devices des sonoff-adapters
 
 link zum ioBroker-Forum: https://forum.iobroker.net/post/601855
 
+BEISPIEL mit integrierten WebGui von Tasmota:
+
+![AApossis (31)](https://user-images.githubusercontent.com/18462890/112619809-08a81000-8e28-11eb-8e2f-4c25b93959ff.gif)
+
