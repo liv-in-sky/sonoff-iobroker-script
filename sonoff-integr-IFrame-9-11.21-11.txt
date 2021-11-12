@@ -883,7 +883,7 @@ await Sleep(2000);
 
   let Schaltcounter=0
 
-    on({id: arrTriggerSonoff, ack: false, change: "any"}, function (obj) { 
+    on({id: arrTriggerSonoff,  change: "ne"}, function (obj) { 
       Schaltcounter++;   
         if(!noon) { // wegen sonderTablet schaltet spalte 10 und 8 - 8 wird geblockt
         noon=true;//log(obj.id)
