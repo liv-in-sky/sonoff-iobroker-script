@@ -22,7 +22,7 @@
   let tabletDoppelHilfe=true;                              // auf tablet geht kein doppelklick - es erschein ein weiterer button in der seitenleiste
   let deviceNameStattHostname=false;                        //zeigt devicename anstatt hostname
   let maxWeiteFlexBoxen="140";                             // max. Breite für die einzel-flexboxen 
-  let newTreeView=false;                                    // WENN NEUE BAUMSRUKTUR DES ADAPTERS GENUTZT WIRD
+  //let newTreeView=false;                                    // WENN NEUE BAUMSRUKTUR DES ADAPTERS GENUTZT WIRD
   let showInstanzInName=true;                              // zeigt die sonoff instanz nummer nach dem namen
   let showTriggerActivity=false;                           //zeigt im log, wie oft getriggert wird
 
